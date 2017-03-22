@@ -1,0 +1,14 @@
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\bin\Debug\app1.exe.config
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\bin\Debug\app1.exe
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\bin\Debug\app1.pdb
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\MainWindow.g.cs
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\App.g.cs
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\app1_MarkupCompile.cache
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\app1_MarkupCompile.lref
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\MainWindow.baml
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\app1.g.resources
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\app1.Properties.Resources.resources
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\app1.csproj.GenerateResource.Cache
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\app1.exe
+c:\users\jiangwei\documents\visual studio 2017\Projects\app1\app1\obj\Debug\app1.pdb
+C:\Users\jiangwei\Documents\Visual Studio 2017\Projects\app1\app1\obj\Debug\app1.csprojResolveAssemblyReference.cache
